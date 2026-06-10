@@ -45,7 +45,7 @@ Create a `config.json` file:
 
 ```
 src/
-├─�� main.rs          # Server entry point
+├── main.rs          # Server entry point
 ├── config.rs        # Configuration management
 ├── node.rs          # Node management system
 └── forwarder.rs     # Data forwarding engine
